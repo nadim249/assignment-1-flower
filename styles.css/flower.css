@@ -96,7 +96,13 @@ background-position: bottom;
 
        
     }
-  
+    .feature-link{
+        display: block;
+        text-align: center;
+    
+
+    }
+    
     .support{
     
         display: flex;
@@ -111,6 +117,11 @@ margin-left: 170px ;
 margin-bottom: 50px;
 
     }
+    .imgsupport-1{
+        display: block;
+        text-align: center;
+    }
+
     /* hot deal */
 .Hot-deal{
     border-radius: 8px;
