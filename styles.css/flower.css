@@ -53,4 +53,27 @@ padding-right: 20px;
     font-size: 18px;
     font-weight: 400;
     }
+    /* hot deal */
+.Hot-deal{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        padding: 50px 100px;
+    }
+    .hot-text{
+        text-align: center;
+    }
+    .hot-deal-title{
+        font-size: 35px;
+
+    }
+    .hot-deal-descrip{
+        font-size: 18px;
+        font-weight: 400;
     
+    }
+    span{
+        color: #E55473;
+    }
