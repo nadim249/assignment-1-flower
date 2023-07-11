@@ -77,6 +77,29 @@ background: rgba(229, 84, 115, 0.05);
     span{
         color: #E55473;
     }
+
+
+
+/* Instagram */
+#Instagram{
+background: #FFF;;
+}
+.instagram{
+    text-align: center;
+}
+.ins-description{
+    font-size: 16px;
+}
+.instagram-pic{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+}
+.ins-img{
+    width: 270px;
+height: 300px;
+}
+
     /* subscribe */
     .subscribe{
         margin: 100px 100px 0px 100px;
